@@ -1,0 +1,16 @@
+target/
+*.iml
+.project/
+*.project
+bin/
+*.class
+*/atlassian-ide*
+.idea/
+.classpath/
+*.classpath
+*.pem
+*.DS_Store
+*.flattened-pom.xml
+_book
+node_modules/
+data/
